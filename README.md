@@ -1,6 +1,6 @@
 O que deve ser utilizado
 
-VARIÁVEIS
+variáveis
 Operadores
 Laços de reprodução
 Estruturas de decisões
